@@ -36,5 +36,5 @@ public class RandomNum{
             sc.close();
         }
     }
-    
+    //  This is a simple random number guessing game where the user has to guess a number between 1 and 100. The program generates a random number and the user has to guess it. The program gives feedback on whether the guess is too high or too low, and keeps track of the number of attempts. The user can play multiple rounds and the total score is displayed at the end.
 
